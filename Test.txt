@@ -1,1 +1,2 @@
-This is my frist project in Git. 
+This is my first project in Git.
+Hi there i add new line to this project.
